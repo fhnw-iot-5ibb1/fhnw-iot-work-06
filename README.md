@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 6](../../../fhnw-iot/blob/master/06/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/6yAJGwt-).*
 
 ### a) Bluetooth LE, 20'
 * Run the previous Bluetooth LE examples on the Pi.
